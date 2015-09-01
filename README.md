@@ -2,6 +2,8 @@
 Notater og materiale til faget DAT210 Programvareutvikling på UiS høsten 2015
 
 
+Beskrivelse av [oppgaven](Oppgave.md)
+
 ##  [Tirsdag 25.8](notater/2015-08-25.md)
 Gjennomgang av emnet, Prosess
 
