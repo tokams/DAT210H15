@@ -10,13 +10,14 @@ Gjennomgang av emnet, Prosess
 ## [Fredag 28.8](notater/2015-08-28.md)  
 Prototyping, UX, Smidige prosesser, SCRUM
 
-## Tirsdag 1.9
+## [Tirsdag 1.9](notater/2015-09-01.md)
 Smidige prosesser - Kanban
-Spørreskjema
+Presentasjon av [oppgaven](Oppgave.md)
+Spørreskjema sendes på e-post - lever innen arbeidsdagens slutt på onsdag. 
 
 ## Fredag  4.9 
 Gruppeinndeling
-Presentasjon av oppgave
+Spesifisering og estimering
 
 ----
 
