@@ -13,7 +13,7 @@ Prototyping, UX, Smidige prosesser, SCRUM
 ## [Tirsdag 1.9](notater/2015-09-01.md)
 Smidige prosesser - Kanban
 Presentasjon av [oppgaven](Oppgave.md)
-Spørreskjema sendes på e-post - lever innen arbeidsdagens slutt på onsdag. 
+Spørreskjema sendes på e-post - levér innen arbeidsdagens slutt på onsdag.
 
 ## Fredag  4.9 
 Gruppeinndeling
