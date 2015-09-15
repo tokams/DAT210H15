@@ -17,10 +17,26 @@ Spørreskjema sendes på e-post - levér innen arbeidsdagens slutt på onsdag.
 
 ## Fredag  4.9 
 Gruppeinndeling
-Spesifisering og estimering
+Spesifisering
+
+## [Tirsdag 8.9](notater/2015-09-08.md)
+Systemtenking
 
 
-## [Tirsdag  8.9](notater/2015-09-08.md) 
+## [Fredag  11.9](notater/2015-09-11.md) 
+Gjennomgang av skisser. 
+Ny oppgave: Mer detaljer og beskriv selve brukstilfellene tydligere. 
+Estimering
+
+## [Tirsdag 15.9](notater/2015-09-15.md) 
+Git 
+Tekniske disipliner
+
+
+## [Fredag 18.9](notater/2015-09-18.md) 
+SOLID prinsippene
+
+
 ----
 
 
