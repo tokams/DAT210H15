@@ -19,6 +19,8 @@ Spørreskjema sendes på e-post - levér innen arbeidsdagens slutt på onsdag.
 Gruppeinndeling
 Spesifisering og estimering
 
+
+## [Tirsdag  8.9](notater/2015-09-08.md) 
 ----
 
 
