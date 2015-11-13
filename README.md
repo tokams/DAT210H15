@@ -42,3 +42,5 @@ SOLID prinsippene
 
 
 Ved ev. bidrag til innholdet må du godta at innholdet du bidrar med kan dekkes av samme lisens som resten av repoet. 
+
+Jeg godtar.
